@@ -1,6 +1,6 @@
 
 {
-  "name": "decentralized-workflow-hub-tests",
+  "name": "workflow-hub-test-suite",
   "version": "1.0.0",
   "description": "Run unit tests on this project.",
   "type": "module",
